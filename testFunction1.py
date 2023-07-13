@@ -1,2 +1,2 @@
-def testFunction1(input: int):
-    print("This is a the second test function with input: {0}".format(input))
+def testFunction1():
+    print("This is the first test function")
