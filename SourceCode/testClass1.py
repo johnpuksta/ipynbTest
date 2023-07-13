@@ -1,4 +1,6 @@
 class testClass:
+    def __init__():
+        pass
     def func1(self):
         print("This is the first function for testClass")
         
